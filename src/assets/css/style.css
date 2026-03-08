@@ -89,3 +89,21 @@ button:hover{
     font-size: 20px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 992px){
+    .product{
+        width: 35%;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .product{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .product{
+        width: 100%;
+    }
+}
