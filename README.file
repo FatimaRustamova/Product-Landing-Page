@@ -1,0 +1,19 @@
+Layihə adı: Product Landing Page
+Bu layihə React və Vite texnologiyalarından istifadə edərək hazırlanmışdır.
+
+Layihə ibarətdir:
+Bir neçə məhsul, onların adı, qiyməti, şəkli və Add to Cart düyməsi
+
+Məhsul məlumatları JSON faylında saxlanılmışdır
+Responsiv dizayna riayət edilmişdir
+Məhsulun qiymətinə görə Sort funksiyası tətbiq olunmuşdur
+
+Layihəni Run etmək üçün:
+1.Repository-ni kopyalamaq
+2.Git Bash-i açıb git clone https://github.com/FatimaRustamova/Product-Landing-Page.git yazmaq
+3.Layihə qovluğuna daxil olmaq: cd Product-Landing-Page
+4.Lazımi paketi yükləmək: npm install
+5.Layihəni işə salmaq: npm run dev
+6.Brazuerdə açmaq: http://localhost:5173/
+
+Deploy link: https://producct-landing-page.netlify.app/
