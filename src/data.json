@@ -3,36 +3,36 @@
             "id": 1,
             "name": "Ergonomic Office Chair",
             "price": 180,
-            "image": "./src/assets/images/image1.jpeg"
+            "image": "../public/images/image1.jpeg"
         },
         {
             "id": 2,
             "name": "Noise Cancelling Earbuds",
             "price": 95,
-            "image": "./src/assets/images/image2.webp"
+            "image": "../public/images/image2.webp"
         },
         {
             "id": 3,
             "name": "Fitness Tracker Band",
             "price": 45,
-            "image": "./src/assets/images/image3.jpg"
+            "image": "../public/images/image3.jpg"
         },
         {
             "id": 4,
             "name": "Mechanical Keyboard",
             "price": 70,
-            "image": "./src/assets/images/image4.webp"
+            "image": "../public/images/image4.webp"
         },
         {
             "id": 5,
             "name": "Wireless Charging Pad",
             "price": 35,
-            "image": "./src/assets/images/image5.jpg"
+            "image": "../public/images/image5.jpg"
         },
         {
             "id": 6,
             "name": "4K Monitor",
             "price": 300,
-            "image": "./src/assets/images/image6.jpg"
+            "image": "../public/images/image6.jpg"
         }
     ]
